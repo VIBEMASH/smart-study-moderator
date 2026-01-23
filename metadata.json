@@ -1,0 +1,7 @@
+{
+  "name": "Smart Study Moderator",
+  "description": "An AI-powered group study tool that moderates discussions, detects disengagement, and provides session summaries and quizzes to enhance focus and learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
